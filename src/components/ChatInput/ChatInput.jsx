@@ -10,7 +10,7 @@ export default function ChatInput() {
 
         <input
           type="text"
-          placeholder="Ask T.I.V.A."
+          placeholder="Ask K.R.I.S.H"
         />
 
         <button className="icon-btn right"><FaMicrophone /></button>

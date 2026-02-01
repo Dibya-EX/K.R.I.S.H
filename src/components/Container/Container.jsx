@@ -8,7 +8,7 @@ export default function Container({ messages }) {
       <div className="chat-container empty">
         <img
           src="/logo.png"
-          alt="T.I.V.A. Logo"
+          alt="k.R.I.S.H Logo"
           className="center-logo"
         />
         <h1>What can I help with?</h1>
